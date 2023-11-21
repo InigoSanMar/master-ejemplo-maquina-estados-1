@@ -28,6 +28,7 @@ void Pulsado()
         estado=esperandoSoltar;
      }
 }
+ // bvhjiofejkgbjrtkl
 
 void EsperandoSoltar()
 {
